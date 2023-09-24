@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android45</string>
+    <array name="provinces">
+        <item>Bali</item>
+        <item>KALIMANTAN BARAT</item>
+        <item>DI YOGYAKARTA</item>
+        <item>DKI JAKARTA</item>
+        <item>NUSA TENGGARA BARAT</item>
+        <item>JAWA TIMUR</item>
+        <item>SULAWESI UTARA</item>
+    </array>
+</resources>
